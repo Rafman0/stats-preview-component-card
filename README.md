@@ -25,8 +25,8 @@ And i also had to make users able to view the optimal layout depending on their 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL
+  (https://rafman0.github.io/stats-preview-component-card/)
 
 ## My process
 
